@@ -1,2 +1,3 @@
 # hello-world
 Este repositório é para praticar o fluxo do Github.
+Atualmente estudando análise e desenvolvimento de sistemas, acho que todo mundo deveria conhecer tecnologia, pois ela molda o futuro de gerações, ela ajuda a agregar valor a vida das pessoas e empresas, ela gera entretenimento, facilidades, felicidades, e tristezas. Tecnologia é tudo, é o máximo! E é por isso que digo com orgulho que estou estudando, espero por meio dos conhecimentos adquiridos ao longo da minha jornada de estudos que um dia no futuro eu possa gerar valor a vida das pessoas de alguma forma, sou esforçado dedicado e sei que tenho potencial para isso, e também sei que so depende de mim! Que Deus nos abençoe!
